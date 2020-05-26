@@ -8,3 +8,4 @@ websockets>=6.0,<7.0
 chardet
 opuslib
 pynacl==1.2.1
+psycopg2==2.6.1
